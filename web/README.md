@@ -1,6 +1,6 @@
 # Front-End Web
 
-Esse repositório faz parte da aplicação Proffy, desenvolvida na segunda semana da Next Level Week.
+Essa aplicação faz parte do projeto Proffy
 
 # Recursos da aplicação
 
@@ -12,18 +12,13 @@ Esse repositório faz parte da aplicação Proffy, desenvolvida na segunda seman
 
 # Como executar a aplciação
 
-- Instale o [Nodejs](https://nodejs.org/en/) na versão LTS
-
-- Instale o [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/)
-
-- Clone esse projeto
-
-<pre>git clone https://github.com/MiguelBragaGarcia/Proffy.git</pre>
-
 - Instale todas as dependências
 
 <pre>yarn install</pre>
 
-- Inicie o servidor
+- Inicie o servidor (Backend)
+<pre>yarn start</pre>
+
+- Inicie o servidor Web
 
 <pre>yarn start</pre>

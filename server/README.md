@@ -1,6 +1,6 @@
 # Backend
 
-Esse repositório faz parte da aplicação Proffy, desenvolvida na segunda semana da Next Level Week.
+Essa aplicação faz parte do projeto Proffy
 
 # Recursos da aplicação
 
@@ -12,14 +12,6 @@ Esse repositório faz parte da aplicação Proffy, desenvolvida na segunda seman
 | Criar uma aula             | POST | http://localhost:3333/classes     |
 
 # Como executar a aplciação
-
-- Instale o [Nodejs](https://nodejs.org/en/) na versão LTS
-
-- Instale o [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/)
-
-- Clone esse projeto
-
-<pre>git clone https://github.com/MiguelBragaGarcia/Proffy.git</pre>
 
 - Instale todas as dependências
 
