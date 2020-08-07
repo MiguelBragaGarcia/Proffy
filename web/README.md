@@ -1,4 +1,4 @@
-# Front-End Web
+# Proffy Front-End Web
 
 Essa aplicação faz parte do projeto Proffy
 

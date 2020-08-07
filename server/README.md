@@ -1,4 +1,4 @@
-# Backend
+# Proffy Back-end
 
 Essa aplicação faz parte do projeto Proffy
 
