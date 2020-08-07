@@ -37,6 +37,10 @@ Caso queira utilizar o emulador do android studio
 
 <pre>emulator @nome-do-seu-avd</pre>
 
+- Caso tenha esquecido o nome do seu avd basta executar esse comando e usar o nome no comando anterior
+
+<pre>emulator -list-avds</pre>
+
 - Instale o expo no emulador
 
 - Em seu computador na página que foi aberta pelo expo clique em "Run on Android device/emulator"
